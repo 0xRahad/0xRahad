@@ -8,4 +8,4 @@
          - Group: Emperor Hacker's Community
 
 ```
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahad-infosec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahad-infosec/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rahadinfosec)  
+[![Linkedin Badge](https://img.shields.io/badge/-Joy%20Ghosh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahad-infosec/)](https://www.linkedin.com/in/rahad-infosec/) [![Twitter Badge](http://img.shields.io/badge/-@0xjoyghosh-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rahadinfosec)](https://twitter.com/rahadinfosec)
