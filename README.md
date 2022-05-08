@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-rahadinfosec-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/0xjoyghosh/)](https://www.linkedin.com/in/0xjoyghosh/) [![Twitter Badge](http://img.shields.io/badge/-@rahadinfosec-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rahadinfosec)](https://twitter.com/rahadinfosec)
+[![Linkedin Badge](https://img.shields.io/badge/-rahad-infosec-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahad-infosec/)](https://www.linkedin.com/in/0xjoyghosh/) [![Twitter Badge](http://img.shields.io/badge/-@rahadinfosec-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rahadinfosec)](https://twitter.com/rahadinfosec)
 ```yaml
 -About Me:
          - Name: Md Rahadul Islam
