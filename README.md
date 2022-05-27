@@ -4,8 +4,8 @@
          - Name: Md Rahadul Islam
          - Education: Class 10
          - Live in: Chittagong
-         - Job: Security Researcher
-                Software Developer
+         - Job: Cyber Security Engineer at BodenUSA
+                Senior Software Developer at DevSec Technology
          - Group: Emperor Hacker's Community
 
 ```
