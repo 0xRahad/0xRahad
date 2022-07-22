@@ -15,10 +15,10 @@
 <h2>Top Skills</h2>
 <ul>
   <li><b>Development: </b> <code>Software Development</code> <code>Cyber Security Assestment</code></li>
+           <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Sqlite</code> <code>Mysql</code> <code>Firebase</code></li>
   <li><b>Cloud: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>AWS</code> <code>Microsoft Azure</code></li>
   <li><b>DFIR: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Memory Forensics</code> <code>Windows</code> <code>Active Directory</code> <code>Malware Analysis</code></li>
   <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Parrot OS </code> </li>
-  <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><code>Mysql</code> <code>Sqlite</code> <code>Firebase</code>
   <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Android Apps Development</code> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>Audio Editing</code>
 <br>
 
