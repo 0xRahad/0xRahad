@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>x86 Assembly, C</td>
-    <td>C++, Python, Java</td>
+    <td>C++, C#, Python, Java</td>
     <td>HTML, CSS, Javascript, PHP</td>
     <td>Bash, Powershell</td>
   </tr>
