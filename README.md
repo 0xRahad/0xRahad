@@ -6,7 +6,7 @@
          - Education: Class 10
          - Live in: Chittagong
          - Job: Cyber Security Engineer at BodenUSA
-                Senior Software Developer at DevSec Technology
+                Former AppSec Engineer at Cheapbazar Online Shopping
          - Group: Emperor Hacker's Community
 
 ```
