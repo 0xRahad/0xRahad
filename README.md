@@ -3,7 +3,7 @@
 
 -About Me:
          - Name: Md Rahadul Islam
-         - Education: Class 10
+         - Education: Diploma in CST, (1st Sem)
          - Live in: Chittagong
          - Job: Cyber Security Engineer at BodenUSA
                 Former AppSec Engineer at Cheapbazar Online Shopping
@@ -24,7 +24,7 @@
 
 <h2><b>Experiences</b></h2>
 <ul>
-  <li><code><b>Job:</b></code>&nbsp;Android Apps Developer at DevSec Technology</li>
+  <li><code><b>Job:</b></code>&nbsp;Android Apps Developer at ANDROIDAFE</li>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - Now)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Software Development - Malware Analysis - Threat Hunt
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li>
@@ -42,7 +42,7 @@
   <tr>
     <td>x86 Assembly, C</td>
     <td>C++, C#, Python, Java</td>
-    <td>HTML, CSS, Javascript, PHP</td>
+    <td>HTML, CSS, Javascript, Django, PHP</td>
     <td>Bash, Powershell</td>
   </tr>
 </table>
