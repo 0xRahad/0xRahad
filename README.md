@@ -1,4 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rahadinfosec-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahadinfosec/)](https://www.linkedin.com/in/rahadinfosec/) [![Twitter Badge](http://img.shields.io/badge/-rahadinfosec-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/rahadinfosec)](https://twitter.com/rahadinfosec)
+[![](https://visitcount.itsvg.in/api?id=0xRahad&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ```yaml
 
 -About Me:
@@ -11,8 +12,7 @@
 
 ```
 
-<!-- Visitor count section -->
-[![](https://visitcount.itsvg.in/api?id=0xRahad&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <br>
 <h2>Top Skills</h2>
