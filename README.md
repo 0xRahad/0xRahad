@@ -11,6 +11,9 @@
 
 ```
 
+<!-- Visitor count section -->
+<img src="https://visitcount.itsvg.in/api?id=rahad-infosec&label=Profile%20Views&color=12&icon=5&pretty=false" alt="Adiyat's profile views" /> </p>
+
 <br>
 <h2>Top Skills</h2>
 <ul>
