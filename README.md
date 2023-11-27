@@ -12,7 +12,7 @@
 ```
 
 <!-- Visitor count section -->
-[![](https://visitcount.itsvg.in/api?id=0xRahad&label=1640&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0xRahad&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br>
 <h2>Top Skills</h2>
