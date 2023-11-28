@@ -30,11 +30,16 @@
 
 <h2><b>Experiences</b></h2>
 <ul>
-  <li><code><b>Job:</b></code>&nbsp;Android Apps Developer at ANDROIDAFE</li>
+  <li><code><b>Job:</b></code>&nbsp;Application Security Researcher at - Cheapbazar</li>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - Now)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Software Development - Malware Analysis - Threat Hunt
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research - Malware Analysis - Threat Hunt
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
+</ul><br>
+<ul>
+  <li><code><b>Job:</b></code>&nbsp;Android App Developer at- ANDROIDAFE</li>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023 - Now)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Secure Android App Development
 </ul><br>
 
 <h3><b>Programming Languages I Work With</b></h3>
