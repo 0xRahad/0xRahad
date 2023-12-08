@@ -70,7 +70,7 @@
     <tr>
       <td>
         <img width="600px" src="https://github.com/0xRahad/DoBazar/raw/main/doBazar/assets/s7.png" alt="DoBazar-Cover" />
-	      <h3>DoBazar Ecoomerce App
+	      <h3>DoBazar App
   <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-PP.png" alt="Personal-Project-Tag"/>
   <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 </h3>
