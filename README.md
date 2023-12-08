@@ -57,3 +57,38 @@
     <td>Bash, Powershell</td>
   </tr>
 </table>
+
+## Open Source Projects
+
+<table>
+  <tbody>
+    <tr>
+      <th>Project</th>
+      <th width="35%">Links</th>
+    </tr>
+	  	      <!-- CoinPulse-Wallet-UI-Kit Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xRahad/DoBazar/raw/main/doBazar/assets/s7.png" alt="DoBazar-Cover" />
+	      <h3>DoBazar Ecoomerce App
+  <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-PP.png" alt="Personal-Project-Tag"/>
+  <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+</h3>
+	      	      <p>🎥 <a href="https://youtu.be/f2sDItny6_0">Watch Demo Video</a></p>
+        <p>A Java-Based E-commerce application with awesome user interface.
+                 <br>this app will make your shopping experience more simple.</p>
+
+<p>You can read detailed information in the <a href="https://github.com/0xRahad/DoBazar">README</a>.</p>
+        <br/>
+      </td>
+      <td>
+
+<br>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xRahad/DoBazar">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRahad&repo=DoBazar&theme=dracula"alt="DoBazar" />
+          </a>
+        </div>
+      </td>
+    </tr>
