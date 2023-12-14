@@ -120,7 +120,7 @@
 <br>
 <h4>Source code</h4>
         <div>
-          <a href="https://github.com/0xRahad/DoBazar">
+          <a href="https://play.google.com/store/apps/details?id=com.jahirul.givvo">
             <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Givvo on Google Play" />
           </a>
         </div>
