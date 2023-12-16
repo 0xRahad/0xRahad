@@ -60,6 +60,43 @@
 
 ## Open Source Projects
 
+
+<table>
+  <tbody>
+    <tr>
+      <th>Project</th>
+      <th width="35%">Links</th>
+    </tr>
+	  	      <!-- CoinPulse-Wallet-UI-Kit Project -->
+    <tr>
+      <td>
+        <img width="600px" src="https://github.com/0xRahad/StripeGate/blob/master/StripeGate.png" alt="DoBazar-Cover" />
+	      <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-PP.png" alt="Personal-Project-Tag"/>
+  <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-OS.png" alt="Open-Source-Project-Tag"  />
+	      <h3>StripeGate - Implement Stripe Simply
+</h3>
+	      	      <p>🎥 <a href="https://youtu.be/f2sDItny6_0">Watch Demo Video</a></p>
+        <p>A lightweight Android library that condenses the complexity
+                 <br>of integrating Stripe into just a few lines of code.</p>
+
+<p>You can read detailed information in the <a href="https://github.com/0xRahad/StripeGate">README</a>.</p>
+        <br/>
+      </td>
+      <td>
+
+<br>
+<h4>Source code</h4>
+        <div>
+          <a href="https://github.com/0xRahad/DoBazar">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRahad&repo=DoBazar&theme=dracula"alt="DoBazar" />
+          </a>
+        </div>
+      </td>
+    </tr>
+</table>
+
+
+
 <table>
   <tbody>
     <tr>
