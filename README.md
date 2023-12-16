@@ -75,7 +75,7 @@
   <img src="https://github.com/0xRahad/0xRahad/blob/main/Tag-OS.png" alt="Open-Source-Project-Tag"  />
 	      <h3>StripeGate - Implement Stripe Simply
 </h3>
-	      	      <p>🎥 <a href="https://youtu.be/f2sDItny6_0">Watch Demo Video</a></p>
+	      	      <p>🎥 <a href="https://youtu.be/i0KoxSGC2IM">Watch Demo Video</a></p>
         <p>A lightweight Android library that condenses the complexity
                  <br>of integrating Stripe into just a few lines of code.</p>
 
