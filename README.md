@@ -88,7 +88,7 @@
 <h4>Source code</h4>
         <div>
           <a href="https://github.com/0xRahad/StripeGate">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRahad&repo=DoBazar&theme=dracula"alt="StripeGate" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xRahad&repo=StripeGate&theme=dracula"alt="StripeGate" />
           </a>
         </div>
       </td>
