@@ -25,7 +25,7 @@
   <li><b>DFIR: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Memory Forensics</code> <code>Windows</code> <code>Active Directory</code> <code>Malware Analysis</code></li>
   <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Parrot OS </code> </li>
   <li><b>Development: </b> <code>Software Development</code> <code>Cyber Security Assestment</code> <code>Android Apps Development</code></li>
-  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>Audio Editing</code>
+  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>Audio Editing</code>
 <br>
 
 <h2><b>Experiences</b></h2>
