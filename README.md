@@ -31,7 +31,7 @@
 <h2><b>Experiences</b></h2>
 <ul>
   <li><code><b>Job:</b></code>&nbsp;Application Security Researcher at - Cheapbazar</li>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - Now)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - 2022)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research - Malware Analysis - Threat Hunt
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
