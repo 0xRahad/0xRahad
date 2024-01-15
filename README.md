@@ -6,7 +6,7 @@
          - Name: Md Rahadul Islam
          - Education: Diploma in CST, (1st Sem)
          - Live in: Chittagong
-         - Job: Cyber Security Engineer at BodenUSA
+         - Job: Android Application Developer at ANDROIDAFE
                 Former AppSec Engineer at Cheapbazar Online Shopping
          - Group: Emperor Hacker's Community
 
