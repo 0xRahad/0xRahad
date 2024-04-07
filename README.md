@@ -7,7 +7,7 @@
          - Education: Diploma in CST, (1st Sem)
          - Live in: Chittagong
          - Job: SDE II (Android) at Asian Group Distributor
-		Android Application Developer at ANDROIDAFE
+                Android Application Developer at ANDROIDAFE
                 Former AppSec Engineer at Cheapbazar Online Shopping
          - Group: Emperor Hacker's Community
 
