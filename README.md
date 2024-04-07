@@ -6,7 +6,8 @@
          - Name: Md Rahadul Islam
          - Education: Diploma in CST, (1st Sem)
          - Live in: Chittagong
-         - Job: Android Application Developer at ANDROIDAFE
+         - Job: SDE II (Android) at Asian Group Distributor
+		Android Application Developer at ANDROIDAFE
                 Former AppSec Engineer at Cheapbazar Online Shopping
          - Group: Emperor Hacker's Community
 
