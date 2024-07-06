@@ -4,7 +4,7 @@
 
 -About Me:
          - Name: Md Rahadul Islam
-         - Education: Diploma in CST, (1st Sem)
+         - Education: Diploma in CST
          - Live in: Chittagong
          - Job: SDE II (Android) at Asian Group Distributor
                 Android Application Developer at ANDROIDAFE
