@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>C++, C#, Python, Java, Kotlin, Dart</td>
-    <td>HTML, CSS, Javascript, Django, PHP</td>
+    <td>HTML, CSS, Javascript, Node.js, PHP</td>
     <td>Bash, Powershell</td>
   </tr>
 </table>
