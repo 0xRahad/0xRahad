@@ -25,21 +25,21 @@
   <li><b>Cloud: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>AWS</code> <code>Microsoft Azure</code> <code>Digital Ocean</code></li>
   <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Parrot OS </code> </li>
   <li><b>Development: </b> <code>Flutter App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
-  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Threat Hunting</code> <code>Security Assesment</code> <code>Audio Editing</code>
+  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Bug Hunting</code> <code>Security Assessment</code>
 <br>
 
 <h2><b>Experiences</b></h2>
 <ul>
   <li><code><b>Job:</b></code>&nbsp;Former Application Security Researcher at - Cheapbazar</li>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - 2022)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research - Malware Analysis - Threat Hunt
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li>
   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
 </ul><br>
 <ul>
   <li><code><b>Job:</b></code>&nbsp;Former Android App Developer at- GamingHub</li>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023 - 01-04-24)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Secure Android App Development
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Android App Development
 </ul><br>
 
 
