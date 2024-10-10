@@ -30,19 +30,16 @@
 
 <h2><b>Experiences</b></h2>
 <ul>
-   <li><code><b>Job:</b></code>&nbsp;Software Development Engineer at - Asian Group Distributor</li>
-   <span style="margin-left: 40px;">(2024 - Present)</span><br><br>
-
-   <li><code><b>Job:</b></code>&nbsp;Former Android App Developer at - GamingHub</li>
-   <span style="margin-left: 40px;">(2023 - 1 Apr 2024)</span><br>
-   <span style="margin-left: 40px;">Role: Android App Development</span><br><br>
-
-   <li><code><b>Job:</b></code>&nbsp;Former Application Security Researcher at - Cheapbazar</li>
-   <span style="margin-left: 40px;">(2021 - 2022)</span><br>
-   <span style="margin-left: 40px;">Role: Web And Android App Security Research</span><br><br>
-
-   <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li><br>
-   <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li>
+    <li><code><b>Job:</b></code>&nbsp;Software Development Engineer at - Asian Group Distributor</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2024 - Present)<br><br>
+    <li><code><b>Job:</b></code>&nbsp;Former Android App Developer at- GamingHub</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023 - 1 Apr 2024)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Android App Development<br><br>
+    <li><code><b>Job:</b></code>&nbsp;Former Application Security Researcher at - Cheapbazar</li>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - 2022)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research<br><br>
+    <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li><br>
+    <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li><br>
 </ul>
 
 
