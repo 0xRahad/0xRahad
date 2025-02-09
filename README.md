@@ -23,7 +23,7 @@ About Me:
 
 <h2><b>Experiences</b></h2>
 <ul>
-    <li><code><b>Job:</b></code>&nbsp;Software Development Engineer at - Asian Group Distributor</li>
+    <li><code><b>Job:</b></code>&nbsp;Software Engineer at - Asian Group Distributor</li>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2024 - Present)<br><br>
     <li><code><b>Job:</b></code>&nbsp;Former Android App Developer at- GamingHub</li>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023 - 1 Apr 2024)<br>
