@@ -5,8 +5,7 @@ About Me:
          - Education: Diploma in CST
          - Live in: Chittagong
          - Job: Software Engineer at Asian Group Distributor
-                Former AppSec Engineer at Cheapbazar Online Shopping
-         - Group: Emperor Hacker's Community
+                Former Mobile App Developer at Cheapbazar Online Shopping
 
 ```
 
@@ -14,40 +13,45 @@ About Me:
 <br>
 <h2>Top Skills</h2>
 <ul>
-           <li><b>Database: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Sqlite</code> <code>Mysql</code> <code>MongoDB</code> <code>Appwrite</code> <code>Firebase</code></li>
-  <li><b>Cloud: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>AWS</code> <code>Microsoft Azure</code> <code>Digital Ocean</code></li>
-  <li><b>OS: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Kali Linux</code> <code>Windows</code> <code>Ubuntu</code> <code>Android</code> <code> Parrot OS </code> </li>
-  <li><b>Development: </b> <code>Flutter App Development</code> <code>Kotlin App Development</code> <code>Backend Development</code></li>
-  <li><b>Other: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <code>Version Control</code> <code>Graphics Design</code> <code>Reverse Engineering</code> <code>Bug Hunting</code> <code>Security Assessment</code>
-<br>
-
-<h2><b>Experiences</b></h2>
-<ul>
-    <li><code><b>Job:</b></code>&nbsp;Software Engineer at - Asian Group Distributor</li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2024 - Present)<br><br>
-    <li><code><b>Job:</b></code>&nbsp;Former Android App Developer at- GamingHub</li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023 - 1 Apr 2024)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Android App Development<br><br>
-    <li><code><b>Job:</b></code>&nbsp;Former Application Security Researcher at - Cheapbazar</li>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021 - 2022)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Role: Web And Android App Security Research<br><br>
-    <li><code><b>Contract:</b></code>&nbsp;Secured a company's website after cyber attack</li><br>
-    <li><code><b>Contract:</b></code>&nbsp;Secured a company's network after ransomware attack</li><br>
+  <li><b>Programming Languages:</b> <code>Kotlin</code>, <code>Java</code>, <code>Dart</code>, <code>Python</code>, <code>JavaScript</code></li>
+  <li><b>Databases:</b> <code>MySQL</code>, <code>MongoDB</code>, <code>PostgreSQL</code>, <code>Appwrite</code>, <code>Firebase</code></li>
+  <li><b>Cloud Platforms:</b> <code>AWS</code>, <code>Microsoft Azure</code>, <code>DigitalOcean</code></li>
+  <li><b>Operating Systems:</b> <code>Kali Linux</code>, <code>Windows</code>, <code>Ubuntu</code>, <code>Android</code>, <code>Parrot OS</code></li>
+  <li><b>Development:</b> <code>Flutter App Development</code>, <code>Kotlin App Development</code>, <code>Backend Development</code></li>
+  <li><b>Other Skills:</b> 
+    <code>Version Control (Git)</code>, 
+    <code>Agile & Scrum Methodologies</code>, 
+    <code>CI/CD Pipelines</code>, 
+    <code>Unit Testing & Test Automation</code>, 
+    <code>Code Review & Quality Assurance</code>, 
+    <code>Software Architecture & Design Patterns</code>, 
+    <code>Reverse Engineering</code>, 
+    <code>Bug Hunting</code>, 
+    <code>Security Assessment</code>
+  </li>
 </ul>
 
+<h2>Professional Experience</h2>
 
+<div>
+  <h3>Software Engineer — Asian Group Distributor</h3>
+  <p><em>March 2024 – Present</em></p>
+  <ul>
+    <li>Designing, developing, and maintaining scalable backend services and mobile applications using Kotlin and Flutter.</li>
+    <li>Optimizing database structures and queries in MySQL and PostgreSQL to enhance performance.</li>
+    <li>Implementing cloud solutions and infrastructure management on AWS and Microsoft Azure.</li>
+    <li>Collaborating with cross-functional teams in Agile environments to deliver high-quality software products.</li>
+  </ul>
+</div>
 
-<h3><b>Programming Languages I Work With</b></h3>
-<table style="width:100%">
-  <tr>
-    <td>High Level</td>
-    <td>Web Related</td>
-    <td>Scripting</td>
-  </tr>
-  <tr>
-    <td>C++, C#, Python, Java, Kotlin, Dart</td>
-    <td>HTML, CSS, Javascript, Node.js, PHP</td>
-    <td>Bash, Powershell</td>
-  </tr>
-</table>
+<div>
+  <h3>Mobile App Developer — Cheapbazar Online Shopping</h3>
+  <p><em>June 2021 – September 2022</em></p>
+  <ul>
+    <li>Developed Android and Flutter applications, focusing on user experience and reliability.</li>
+    <li>Integrated Firebase services including authentication, real-time database, and push notifications.</li>
+    <li>Worked closely with designers and QA teams to ensure seamless UI and app stability.</li>
+    <li>Maintained code quality through version control and peer code reviews.</li>
+  </ul>
+</div>
 
