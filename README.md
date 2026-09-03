@@ -70,4 +70,4 @@ Some of the real systems I have worked on at AGD:
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-rahadul.com-blue?style=flat-square&logo=google-chrome)](https://rahadul.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahadul--islam--noyon-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahadul-islam-noyon)  [![Email](https://img.shields.io/badge/Email-talk@rahadul.com-D14836?style=flat-square&logo=gmail)](mailto:talk@rahadul.com)
+[![Website](https://img.shields.io/badge/Website-rahadul.com-blue?style=flat-square&logo=google-chrome)](https://rahadul.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-md-rahadul--islam-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/md-rahadul-islam)  [![Email](https://img.shields.io/badge/Email-talk@rahadul.com-D14836?style=flat-square&logo=gmail)](mailto:talk@rahadul.com)
