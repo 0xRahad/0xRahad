@@ -27,30 +27,14 @@ Some of the real systems I have worked on at AGD:
 
 ## Tech Stack
 
-<h3>Languages</h3>
-<ul>
-  <li><b>Primary:</b> <code>Dart</code>, <code>PHP</code>, <code>JavaScript</code>, <code>Python</code></li>
-  <li><b>Secondary:</b> <code>Java</code>, <code>SQL</code></li>
-</ul>
-
-<h3>Frameworks & Tools</h3>
-<ul>
-  <li><b>Mobile:</b> <code>Flutter</code></li>
-  <li><b>Backend:</b> <code>Laravel</code>, <code>Node.js</code></li>
-  <li><b>Databases:</b> <code>MySQL</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>Firebase</code></li>
-  <li><b>Cloud:</b> <code>AWS</code>, <code>DigitalOcean</code>, <code>Microsoft Azure</code></li>
-  <li><b>DevOps:</b> <code>CI/CD Pipelines</code>, <code>Git</code>, <code>Docker</code></li>
-</ul>
-
-<h3>Engineering Practices</h3>
-<ul>
-  <li><code>Clean Architecture</code></li>
-  <li><code>REST API Design</code></li>
-  <li><code>Agile & Scrum</code></li>
-  <li><code>Code Review & QA</code></li>
-  <li><code>Software Architecture & Design Patterns</code></li>
-  <li><code>Team Leadership & Engineering Management</code></li>
-</ul>
+| Category | Technologies |
+|---|---|
+| **Mobile** | Flutter, Dart |
+| **Backend** | Laravel (PHP), Node.js, Python |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firebase |
+| **Cloud** | AWS, DigitalOcean, Microsoft Azure |
+| **DevOps** | CI/CD Pipelines, Docker, Git |
+| **Practices** | Clean Architecture, REST API Design, Agile & Scrum, Design Patterns, Team Leadership |
 
 <br>
 
@@ -86,6 +70,4 @@ Some of the real systems I have worked on at AGD:
 
 ## Connect
 
-- 🌐 [rahadul.com](https://rahadul.com)
-- 💼 [LinkedIn](https://linkedin.com/in/rahadul-islam-noyon)
-- 📧 talk@rahadul.com
+[![Website](https://img.shields.io/badge/Website-rahadul.com-blue?style=flat-square&logo=google-chrome)](https://rahadul.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahadul--islam--noyon-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahadul-islam-noyon)  [![Email](https://img.shields.io/badge/Email-talk@rahadul.com-D14836?style=flat-square&logo=gmail)](mailto:talk@rahadul.com)
