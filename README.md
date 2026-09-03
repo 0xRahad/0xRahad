@@ -1,57 +1,91 @@
 ```yaml
-
 About Me:
-         - Name: Md Rahadul Islam
-         - Education: Diploma in CST
-         - Live in: Chittagong
-         - Job: Software Engineer at Asian Group Distributor
-                Former Mobile App Developer at Cheapbazar Online Shopping
-
+  - Name:       Md Rahadul Islam
+  - Role:       Head of Engineering & Management @ Asian Group Distributor
+  - Location:   Cox's Bazar, Bangladesh
+  - Education:  Diploma in Computer Science & Technology
+  - Focus:      Mobile + Backend Architecture • Team Leadership • Travel & Transport Tech
 ```
 
+<br>
+
+## What I Do
+
+I build and lead. At AGD I work as both a hands-on engineer and an engineering leader.
+On the technical side I develop mobile apps with Flutter and backend systems with Laravel, Node.js and Python.
+On the leadership side I manage cross-functional teams, drive engineering roadmaps, and work directly with international partners.
+
+Some of the real systems I have worked on at AGD:
+
+- Full Bus Management System built from scratch including Android POS Terminal
+- API integrations with Flixbus, Busbud, Trenitalia and Travelier
+- Air ticket API integration
+- Hotel inventory integration with Webbeds
+- Vehicle Tracking System (VTS)
 
 <br>
-<h2>Top Skills</h2>
+
+## Tech Stack
+
+<h3>Languages</h3>
 <ul>
-  <li><b>Programming Languages:</b> <code>Kotlin</code>, <code>Java</code>, <code>Dart</code>, <code>Python</code>, <code>JavaScript</code></li>
-  <li><b>Databases:</b> <code>MySQL</code>, <code>MongoDB</code>, <code>PostgreSQL</code>, <code>Appwrite</code>, <code>Firebase</code></li>
-  <li><b>Cloud Platforms:</b> <code>AWS</code>, <code>Microsoft Azure</code>, <code>DigitalOcean</code></li>
-  <li><b>Operating Systems:</b> <code>Kali Linux</code>, <code>Windows</code>, <code>Ubuntu</code>, <code>Android</code>, <code>Parrot OS</code></li>
-  <li><b>Development:</b> <code>Flutter App Development</code>, <code>Kotlin App Development</code>, <code>Backend Development</code></li>
-  <li><b>Other Skills:</b> 
-    <code>Version Control (Git)</code>, 
-    <code>Agile & Scrum Methodologies</code>, 
-    <code>CI/CD Pipelines</code>, 
-    <code>Unit Testing & Test Automation</code>, 
-    <code>Code Review & Quality Assurance</code>, 
-    <code>Software Architecture & Design Patterns</code>, 
-    <code>Reverse Engineering</code>, 
-    <code>Bug Hunting</code>, 
-    <code>Security Assessment</code>
-  </li>
+  <li><b>Primary:</b> <code>Dart</code>, <code>PHP</code>, <code>JavaScript</code>, <code>Python</code></li>
+  <li><b>Secondary:</b> <code>Java</code>, <code>SQL</code></li>
 </ul>
 
-<h2>Professional Experience</h2>
+<h3>Frameworks & Tools</h3>
+<ul>
+  <li><b>Mobile:</b> <code>Flutter</code></li>
+  <li><b>Backend:</b> <code>Laravel</code>, <code>Node.js</code></li>
+  <li><b>Databases:</b> <code>MySQL</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>Firebase</code></li>
+  <li><b>Cloud:</b> <code>AWS</code>, <code>DigitalOcean</code>, <code>Microsoft Azure</code></li>
+  <li><b>DevOps:</b> <code>CI/CD Pipelines</code>, <code>Git</code>, <code>Docker</code></li>
+</ul>
 
-<div>
-  <h3>Software Engineer — Asian Group Distributor</h3>
-  <p><em>March 2024 – Present</em></p>
-  <ul>
-    <li>Designing, developing, and maintaining scalable backend services and mobile applications using Kotlin and Flutter.</li>
-    <li>Optimizing database structures and queries in MySQL and PostgreSQL to enhance performance.</li>
-    <li>Implementing cloud solutions and infrastructure management on AWS and Microsoft Azure.</li>
-    <li>Collaborating with cross-functional teams in Agile environments to deliver high-quality software products.</li>
-  </ul>
-</div>
+<h3>Engineering Practices</h3>
+<ul>
+  <li><code>Clean Architecture</code></li>
+  <li><code>REST API Design</code></li>
+  <li><code>Agile & Scrum</code></li>
+  <li><code>Code Review & QA</code></li>
+  <li><code>Software Architecture & Design Patterns</code></li>
+  <li><code>Team Leadership & Engineering Management</code></li>
+</ul>
 
-<div>
-  <h3>Mobile App Developer — Cheapbazar Online Shopping</h3>
-  <p><em>June 2021 – September 2022</em></p>
-  <ul>
-    <li>Developed Android and Flutter applications, focusing on user experience and reliability.</li>
-    <li>Integrated Firebase services including authentication, real-time database, and push notifications.</li>
-    <li>Worked closely with designers and QA teams to ensure seamless UI and app stability.</li>
-    <li>Maintained code quality through version control and peer code reviews.</li>
-  </ul>
-</div>
+<br>
 
+## Experience
+
+<h3>Head of Engineering & Management — Asian Group Distributor</h3>
+<p><em>Jul 2025 – Present</em></p>
+<ul>
+  <li>Leading engineering and management operations while staying hands-on as a full-stack engineer.</li>
+  <li>Architecting scalable mobile applications in Flutter and backend systems in Laravel and Node.js.</li>
+  <li>Led API integrations with major international travel companies including Flixbus, Busbud, Trenitalia and Travelier.</li>
+  <li>Managing cross-functional teams, engineering roadmaps, and business partnerships with international companies.</li>
+</ul>
+
+<h3>Software Engineer — Asian Group Distributor</h3>
+<p><em>Mar 2024 – Jul 2025</em></p>
+<ul>
+  <li>Built a full Bus Management System from scratch including an Android POS Terminal for transport operations.</li>
+  <li>Worked on air ticket API integration, hotel inventory systems via Webbeds, and a Vehicle Tracking System.</li>
+  <li>Architected and managed CI/CD pipelines ensuring faster release cycles and high availability.</li>
+  <li>Optimized app performance, reducing crash rates and improving load times by 15%.</li>
+</ul>
+
+<h3>Mobile App Developer — Cheapbazar Online Shopping</h3>
+<p><em>Aug 2021 – Jun 2022</em></p>
+<ul>
+  <li>Built and optimized a production e-commerce Flutter app improving maintainability and performance.</li>
+  <li>Delivered features in Agile sprints, increasing user satisfaction by 30%.</li>
+  <li>Automated deployment pipelines contributing to 25% growth in active users.</li>
+</ul>
+
+<br>
+
+## Connect
+
+- 🌐 [rahadul.com](https://rahadul.com)
+- 💼 [LinkedIn](https://linkedin.com/in/rahadul-islam-noyon)
+- 📧 talk@rahadul.com
